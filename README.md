@@ -14,10 +14,9 @@ import premium
 
 ## List of Problems
 
-| #    | Problem                                                                                                                                      
-                   | Solution                                                                               |
+| #    | Problem                                                                                                                                                         | Solution                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                               | [python3](https://github.com/VANAM-SHIVA-KUMAR/My-Leetcode-Solutions/blob/main/soultions/Python3/1.py)            |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                               | [python3](https://github.com/VANAM-SHIVA-KUMAR/My-Leetcode-Solutions/blob/main/soultions/Python3/1.py)    |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                                                                | [python3](https://github.com/VANAM-SHIVA-KUMAR/My-Leetcode-Solutions/blob/main/soultions/Python3/2.py)    |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)                                  | [python3](https://github.com/VANAM-SHIVA-KUMAR/My-Leetcode-Solutions/blob/main/soultions/Python3/3.py)    |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                                                        | [python3](https://github.com/VANAM-SHIVA-KUMAR/My-Leetcode-Solutions/blob/main/soultions/Python3/4.py)    |
